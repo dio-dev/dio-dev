@@ -44,13 +44,6 @@ VP of Engineering with extensive experience in cloud infrastructure and full-sta
 
 </div>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dio-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dio-dev&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
 ## 🌱 Currently Learning
 
 - Enhancing my Go programming skills
