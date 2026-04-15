@@ -58,6 +58,9 @@ VP of Engineering with extensive experience in cloud infrastructure and full-sta
 - Implemented CI/CD pipelines that reduced deployment time by 70%
 - Mentored junior engineers, helping several advance to senior positions
 
+##  Tokscale
+ [![Tokscale Stats](https://tokscale.ai/api/embed/dio-dev/svg)](https://tokscale.ai/u/dio-dev)
+
 ## 📫 Connect With Me
 
 <div align="center">
